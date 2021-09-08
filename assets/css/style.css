@@ -401,6 +401,8 @@ html{
     color: #fff;
     padding: 9px 15px;
     float: right;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 
